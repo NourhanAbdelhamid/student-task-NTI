@@ -1,0 +1,17 @@
+{
+  "name": "jjj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "^0.0.2",
+    "npm": "^8.5.4",
+    "yargs": "^17.3.1"
+  }
+}
